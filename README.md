@@ -1,2 +1,4 @@
-# Python codes for implementing various things in my graduate course: Pricing and Revenue Analytics at Ivey Business School.
+# pricing-revenue-analytics-course-codes
+
+Python codes for implementing various things in my graduate course "Pricing and Revenue Analytics" at Ivey Business School.
 
